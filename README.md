@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Arvin
+# Hi there 👋
 ### `const developer = "Hello World! I am Arvin";`
 
 I'm a **Computer Engineer and Full-Stack Developer** based in the Philippines, bridging the gap between software and hardware. I architect scalable web apps, develop embedded IoT systems, and optimize IT infrastructure to solve complex technical challenges. 

@@ -3,7 +3,7 @@
 
 I'm a **Computer Engineer and Full-Stack Developer** based in the Philippines, bridging the gap between software and hardware. I architect scalable web apps, develop embedded IoT systems, and optimize IT infrastructure to solve complex technical challenges. 
 
-- 💼 **Open for Freelance:** Currently available for exciting projects and collaborations.
+- 💼 **Open for Work/Freelance:** Currently available for employment, exciting projects and collaborations.
 - 🌐 **Portfolio:** [Visit My Portfolio](https://arvintenasas-portfolio.vercel.app/)
 
 ---

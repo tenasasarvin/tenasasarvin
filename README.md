@@ -38,6 +38,5 @@ I'm a **Computer Engineer and Full-Stack Developer** based in the Philippines, b
 
 
 ---
-
 ### 📊 GitHub Activity
-![Arvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Arvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenasasarvin&show_icons=true&theme=radical)
